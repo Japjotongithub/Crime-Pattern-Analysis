@@ -2,8 +2,11 @@
 This is my end to end Data Science Project
 
 Background
+
 1.Detailed crime dataset of India from 2020-2024(Kaggle)
+
 2.Our objective is to understand crime patterns and also have a clear view of crime resolution rates.
+
 3.Prominent features include
 	Date of Reporting
 	Date of occurrence
@@ -13,7 +16,9 @@ Background
 	City
 	Crime Description
 	Police Deployed
+
 Among others
+
 4.Derived Features(Using feature engineering)
 	Crime Hour- 0-23 as the values.They represent the hour at which the crime was committed
 	Case Duration-Derived from the difference of Case closed date- Reporting Date
