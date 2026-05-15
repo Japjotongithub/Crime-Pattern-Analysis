@@ -1,5 +1,5 @@
 # Crime-Pattern-Analysis
-This is my end to end Data Science Project
+This is my end to end Data Science Project.For this project,I have done EDA,ML,Distributions,Feature Engineering,extracted hidden information and gave solutions based on the models and insights
 
 Background
 
